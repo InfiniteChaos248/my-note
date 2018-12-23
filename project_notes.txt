@@ -1,0 +1,17 @@
+Initial commands : 
+MongoDB -> 
+path   = cd /d D:/Arjun/MongoDB/mongodb/bin
+server = mongod.exe --dbpath "D:\Arjun\MongoDB\mongodb\data"
+client = mongo.exe
+
+python -> python endpoint.py
+
+react -> 
+install new node modules = npm install
+start dev build = npm start
+
+References: 
+
+https://medium.com/@MicroPyramid/mongodb-crud-operations-with-python-pymongo-a26883af4d09
+
+https://www.tutorialspoint.com/mongodb/index.htm
