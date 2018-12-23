@@ -1,4 +1,4 @@
-##My Note
+## My Note
 
 Web application to save and view notes.
 
