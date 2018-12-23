@@ -1,14 +1,21 @@
 Initial commands : 
 MongoDB -> 
-path   = cd /d D:/Arjun/MongoDB/mongodb/bin
-server = mongod.exe --dbpath "D:\Arjun\MongoDB\mongodb\data"
-client = mongo.exe
+path   = 
+cd /d D:/Arjun/MongoDB/mongodb/bin
+server = 
+mongod.exe --dbpath "D:\Arjun\MongoDB\mongodb\data"
+"D:\Arjun\my-note\data"
+client = 
+mongo.exe
 
-python -> python endpoint.py
+python -> 
+python endpoint.py
 
 react -> 
-install new node modules = npm install
-start dev build = npm start
+install new node modules = 
+npm install
+start dev build = 
+npm start
 
 References: 
 
