@@ -33,6 +33,7 @@ class App extends Component {
     })
     }
     else if(resp.code === 1){
+      this.setState({message: ""})
       this.setState({username: req.username})
       this.setState({password: req.password})
       this.props.history.push({
